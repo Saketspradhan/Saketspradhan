@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Tensorflow, OpenCV and Stock Trading.**
 
-- 📫 How to reach me **saketspradhan@gmail.com**
+- 📫 You can reach me at **saketspradhan@gmail.com**
 
 <br>
 
