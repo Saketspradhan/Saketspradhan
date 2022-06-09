@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Autonomous Vehicle Steering using YOLO4](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-3-4-5)
 
-- 💬 Ask me about **Tensorflow, OpenCV and Stock Trading.**
+- 💬 Ask me about **Tensorflow, OpenCV and Deep Learning.**
 
 - 📫 You can reach me at **saketspradhan@gmail.com**
 
