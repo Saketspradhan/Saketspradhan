@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on my project [Stock-Market-Analysis-System](https://github.com/Saketspradhan/Stock-Market-Analysis-System)
 
-- 🤝 I’m looking for help with [Autonomous Vehicle Steering using YOLO4](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-3-4-5)
+- 🤝 I’m looking for help with [Autonomous Vehicle Steering using YOLOv4](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-4)
 
 - 💬 Ask me about **Tensorflow, OpenCV and Deep Learning.**
 
