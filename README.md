@@ -3,17 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketspradhan&label=Profile%20views&color=0e75b6&style=flat" alt="saketspradhan" /> </p>
 
-- 🔭 I’m currently working on **Algorithmic Trading, Quantitative Risk Analytics and GNSS Systems.**
+- 🔭 I’m currently working on **Generative Modelling, Computer Vision and Deep Learning.**
 
-- 🌱 I’m currently learning **Big Data, IoT, Data Mining, Julia, Go, Blockchain.**
+- 🌱 I’m currently learning **Elixir, NixOS, Julia, and GoLang.**
 
 - 👯 I’m looking to collaborate on my project [Stock-Market-Analysis-System](https://github.com/Saketspradhan/Stock-Market-Analysis-System)
 
-- 🤝 I’m looking for help with [Autonomous Vehicle Steering using YOLOv4](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-4)
+- 🤝 I’m looking for help with [Autonomous Vehicle Steering](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-4)
 
 - 💬 Ask me about **Tensorflow, OpenCV and Deep Learning.**
 
-- 📫 You can reach me at **saketspradhan@gmail.com**
+- 📫 You can reach me at **saketspradhan@gmail.com or saket.pradhan@invideo.io**
 
 <br>
 
