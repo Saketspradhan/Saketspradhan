@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketspradhan&label=Profile%20views&color=0e75b6&style=flat" alt="saketspradhan" /> </p>
 
-- 🔭 I’m currently working on **Generative Modelling, Computer Vision, and Deep Learning.**
+- 🔭 I’m currently working on **Computer Vision, and Deep Learning.**
 
 - 🌱 I’m currently learning **Elixir, NixOS, Julia, and GoLang.**
 
