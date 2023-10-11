@@ -2,15 +2,15 @@
 <h3 align="center">Computer Vision | Software Engineering | Robotics</h3>
 
 
-- 🔭 I’m currently working on **Computer Vision, and Deep Learning.**
+- 🔭 I’m currently working on **Computer Vision, and Robotics.**
 
-- 🌱 I’m currently learning **Elixir, NixOS, Julia, and GoLang.**
+- 🌱 I’m currently learning **Math/Controls for Robotics, ROS2, and GoLang.**
 
 - 👯 I’m looking to collaborate on my project [Stock-Market-Analysis-System](https://github.com/Saketspradhan/Stock-Market-Analysis-System)
 
 - 🤝 I’m looking for help with [Autonomous Vehicle Steering](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-4)
 
-- 💬 Ask me about **Tensorflow, OpenCV, and Deep Learning.**
+- 💬 Ask me about **TensorFlow, OpenCV, and Deep Learning.**
 
 - 📫 You can reach me at **saketp@umich.edu or saket.pradhan@invideo.io**
 
