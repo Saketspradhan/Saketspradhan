@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **OpenCV, TensorFlow, and Deep Learning.**
 
-- 📫 You can reach me at **saketp@umich.edu or saket.pradhan@invideo.io**
+- 📫 You can reach me at **saketp@umich.edu**
 
 <be>
 
