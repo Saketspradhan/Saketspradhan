@@ -2,7 +2,7 @@
 <h3 align="center">Computer Vision | Software Engineering | Robotics</h3>
 
 
-- 🔭 I’m currently working on **Computer Vision, and Robotics.**
+- 🔭 I’m currently working on **Perception and Motion Planning for the [Spot Robot](https://bostondynamics.com/products/spot/).**
 
 - 🌱 I’m currently learning **Math/Controls for Robotics, ROS2, and GoLang.**
 
