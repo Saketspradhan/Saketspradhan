@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Perception systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**
 
-- 🌱 I’m currently learning **Math/Controls for Robotics, ROS2, and GoLang.**
+- 🌱 I’m currently learning **Math/Controls for Robotics, ROS2, and GoLang**
 
 - 👯 I’m looking to collaborate on my project **[Pixel Polyglots: Pronunciation Enhancement in Online Language Learning](https://github.com/Saketspradhan/EECS-504-F23)**
 
 <!-- - 🤝 I’m looking for help with [Autonomous Vehicle Steering](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-4) -->
 
-- 💬 Ask me about **OpenCV, TensorFlow, and Deep Learning.**
+- 💬 Ask me about **OpenCV, TensorFlow, and Deep Learning**
 
 - 📫 You can reach me at **saketp@umich.edu**
 
