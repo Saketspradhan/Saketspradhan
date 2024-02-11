@@ -2,7 +2,7 @@
 <h3 align="center">Computer Vision | Software Engineering | Robotics</h3>
 
 
-- 🔭 I’m currently working on **Perception systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**
+- 🔭 I’m currently working on the **Perception systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**, advised by [Prof. Dmitry Berenson](https://berenson.robotics.umich.edu/)
 
 - 🌱 I’m currently learning **Math/Controls for Robotics, ROS2, and GoLang**
 
