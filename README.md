@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the **Perception systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**, advised by **[Dmitry Berenson](https://berenson.robotics.umich.edu/)**
 
-- 🌱 I’m currently learning **Liner Feedback Control, Deep Learning for Robot Control, and Mobile Robotics**
+- 🌱 I’m currently learning **Liner Feedback Control, Deep Learning for Robot Perception, and Mobile Robotics**
 
 - 👯 I’m looking to collaborate on my project **[Pixel Polyglots: Pronunciation Enhancement in Online Language Learning](https://github.com/Saketspradhan/EECS-504-F23)**
 
