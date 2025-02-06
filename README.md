@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Saket Pradhan 👋</h1>
-<h3 align="center">Computer Vision | Software Engineering | Robotics</h3>
+<h3 align="center">Software Engineering | Robotics | Computer Vision</h3>
 
 
-- 🔭 I’m currently working on the **Perception systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**, advised by **[Dmitry Berenson](https://berenson.robotics.umich.edu/)**
+- 🔭 I’m worked on **perception systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**, advised by **[Dmitry Berenson](https://berenson.robotics.umich.edu/)**
 
-- 🌱 I’m currently learning **Liner Feedback Control, Deep Learning for Robot Perception, and Mobile Robotics**
+- 🌱 I’m learning **Liner Feedback Control, Deep Learning for Robot Perception, and Mobile Robotics**
 
 - 👯 I’m looking to collaborate on my project **[Pixel Polyglots: Pronunciation Enhancement in Online Language Learning](https://github.com/Saketspradhan/EECS-504-F23)**
 
 <!-- - 🤝 I’m looking for help with [Autonomous Vehicle Steering](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-4) -->
 
-- 💬 Ask me about **OpenCV, PyTorch, TensorFlow, and Deep Learning**
+- 💬 Ask me about **Multi-Robot Control, Vision Models, and Deep Learning**
 
 - 📫 You can reach me at **saketp@umich.edu**
 
