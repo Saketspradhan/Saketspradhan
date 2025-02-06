@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Multi-Robot Control, Vision Models, and Deep Learning**
 
-- 📫 You can find my work **[here](https://saketspradhan.github.io/)** reach me at **saketp [at] umich [dot] edu**
+- 📫 You can find my work **[here](https://saketspradhan.github.io/)** reach me at **saketp [at] umich [dot] edu**.
 
 <be>
 
