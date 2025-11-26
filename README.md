@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering | Robotics | Computer Vision</h3>
 
 
-- 🔭 I’m worked on **perception systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**, advised by **[Dmitry Berenson](https://berenson.robotics.umich.edu/)**
+- 🔭 I’m worked on **perception and navigation systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**.
 
 - 🌱 I’m learning **Liner Feedback Control, Deep Learning for Robot Perception, and Mobile Robotics**
 
