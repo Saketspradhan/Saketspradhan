@@ -5,7 +5,7 @@
 - 🌱 I’m learning **Linear Feedback Control, Deep Learning for Robot Perception, and Mobile Robotics**.
 - 👯 I’m looking to collaborate on my project **[Pixel Polyglots: Pronunciation Enhancement in Online Language Learning](https://github.com/Saketspradhan/EECS-504-F23)**.
 - 💬 Ask me about **Multi-Robot Control, Vision Models, and Deep Learning**.
-- 📫 You can find my work **[here](https://saketspradhan.github.io/)** or reach me at **saketp [at] umich [dot] edu**.
+- 📫 You can find my work **[here](https://saketspradhan.github.io/)** or reach me at **[first name][last initial] [at] umich [dot] edu**.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketspradhan" alt="saketspradhan" />
