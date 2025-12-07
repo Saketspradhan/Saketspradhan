@@ -49,11 +49,17 @@
 <br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <!-- add all other icons similarly -->
+</div>
+
+<!-- Stats images (pure Markdown, not wrapped in div) -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saketspradhan&show_icons=true&locale=en&layout=compact" alt="saketspradhan" />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketspradhan" alt="saketspradhan" />
-</div>
+</p>
