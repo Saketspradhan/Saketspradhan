@@ -4,12 +4,11 @@
 - 🔭 I’ve worked on **perception and navigation systems** for the **[Spot Robot](https://bostondynamics.com/products/spot/)**.
 - 🌱 I’m learning **Linear Feedback Control, Deep Learning for Robot Perception, and Mobile Robotics**.
 - 👯 I’m looking to collaborate on my project **[Pixel Polyglots: Pronunciation Enhancement in Online Language Learning](https://github.com/Saketspradhan/EECS-504-F23)**.
-<!-- - 🤝 I’m looking for help with [Autonomous Vehicle Steering](https://github.com/Saketspradhan/Autonomous-Vehicle-Steering-using-YOLO-4) -->
 - 💬 Ask me about **Multi-Robot Control, Vision Models, and Deep Learning**.
 - 📫 You can find my work **[here](https://saketspradhan.github.io/)** or reach me at **saketp [at] umich [dot] edu**.
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -45,12 +44,16 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saketspradhan&show_icons=true&locale=en&layout=compact" alt="saketspradhan" />
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketspradhan" alt="saketspradhan" />
-</p>
+</div>
